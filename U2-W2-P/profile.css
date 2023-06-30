@@ -1,0 +1,33 @@
+body {
+    font-family: "Poppins", sans-serif;
+    background-color: #141414;
+  }
+  .myButton:hover {
+    background-color: White;
+  }
+  .smallFontSize {
+    font-size: small;
+  }
+  .myFormCheck {
+    background-color: rgba(0, 0, 0, 0);
+    height: 2rem;
+    width: 2rem;
+  }
+  .myFormCheck:checked {
+    background-color: rgba(0, 0, 0, 0);
+    border-color: white;
+  }
+  .titleSize {
+    font-size: 4em;
+  }
+  .myForm {
+    background-color: grey;
+    border: none;
+    margin: 0;
+  }
+  .myLanguageBotton {
+    background-color: black;
+  }
+  .myContainer {
+    width: 40%;
+  }

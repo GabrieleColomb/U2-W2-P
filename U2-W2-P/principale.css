@@ -1,0 +1,19 @@
+body {
+    font-family: "Poppins", sans-serif;
+    background-color: #141414;
+  }
+
+  .navMenu {
+    list-style-type: none;
+    margin-bottom: 0;
+  }
+
+  footer {
+    width: 60%;
+    margin: 8rem auto 2rem auto;
+  }
+
+  .btn-primary:hover {
+    background-color: #ffffff;
+    color: #000000;
+  }
